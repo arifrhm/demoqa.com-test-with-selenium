@@ -13,7 +13,7 @@ sudo chmod +x start.sh
 ```
 3. We can start using start.sh by using command :
 ```
-./start.sh
+bash start.sh
 ```
 So we can start to use Implicitly Wait Testin implicitly-wait.py file with command :
 ```
